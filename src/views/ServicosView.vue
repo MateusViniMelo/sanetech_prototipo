@@ -34,11 +34,15 @@
                         <div class="card">
                             <img src="/images/limpeza_caixa.jpeg" class="img-fluid object-fit-cover" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Revisão de Caixas d’Água e Orientação de Limpeza</h5>
                                 <p class="card-text text-secondary">Visita técnica para revisar vazamentos, mau cheiro e
                                     orientar sobre limpeza e vedação correta da caixa d’água..</p>
-                                <p class="fw-bold">R$ 90,00</p>
+                                <p class="fw-bold ">R$ 90,00</p>
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
 
                             </div>
                         </div>
@@ -48,12 +52,15 @@
                         <div class="card">
                             <img src="/images/manutencao_fossa.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Manutenção Econômica de Fossas Sépticas</h5>
                                 <p class="card-text text-secondary">Serviço de manutenção de fossas com instrução básica
                                     de cuidado e prevenção de entupimentos e contaminação.</p>
                                 <p class="fw-bold">R$ 180,00</p>
-
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
                             </div>
                         </div>
 
@@ -62,13 +69,16 @@
                         <div class="card">
                             <img src="/images/teste_agua.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Teste Rápido da Qualidade da Água</h5>
                                 <p class="card-text text-secondary">Avaliação simples da potabilidade da água de poços
                                     ou caixas d’água. Ideal para quem desconfia da água, mas não pode pagar laboratório.
                                 </p>
                                 <p class="fw-bold">R$ 60,00</p>
-
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
                             </div>
                         </div>
 
@@ -78,13 +88,16 @@
                         <div class="card">
                             <img src="/images/instalacao_calha.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Instalação de Calhas para Captação de Água da Chuva</h5>
                                 <p class="card-text text-secondary">Instalação de calhas e conduítes que redirecionam a
                                     água da chuva para bombonas ou cisternas reaproveitadas.
                                 </p>
                                 <p class="fw-bold">R$ 150,00</p>
-
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
                             </div>
                         </div>
 
@@ -94,13 +107,16 @@
                         <div class="card">
                             <img src="/images/compostagem_comunitaria.webp" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Implantação de Compostagem Comunitária</h5>
                                 <p class="card-text text-secondary">Montagem de composteiras em centros comunitários,
                                     escolas ou associações com orientação e manutenção inicial.
                                 </p>
                                 <p class="fw-bold">R$ 700,00</p>
-
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
                             </div>
                         </div>
 
@@ -109,13 +125,16 @@
                         <div class="card">
                             <img src="/images/reaproveitar_agua_ar_condicionado.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
-                                <h5 class="card-title link " data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                <h5 class="card-title link ">
                                     Reaproveitamento de Água do Ar-Condicionado</h5>
                                 <p class="card-text text-secondary">Instalação de mangueira e direcionamento da água
                                     condensada para baldes ou jardins — ideal para regiões quentes.
                                 </p>
                                 <p class="fw-bold">R$ 70,00</p>
-
+                                <div class="mt-3 text-end">
+                                    <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal"
+                                        data-bs-target="#staticBackdrop">Comprar</button>
+                                </div>
                             </div>
                         </div>
 
@@ -151,11 +170,5 @@
 </script>
 
 <style scoped>
-.link {
-    cursor: pointer;
-}
 
-.link:hover {
-    color: #06B6D4;
-}
 </style>
