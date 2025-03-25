@@ -56,7 +56,65 @@
                         </div>
 
                     </div>
-                    
+                    <div class="col-md-4 col-lg-6 col-xl-4 my-2">
+                        <div class="card">
+                            <img src="/images/teste_agua.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Teste Rápido da Qualidade da Água</h5>
+                                <p class="card-text text-secondary">Avaliação simples da potabilidade da água de poços
+                                    ou caixas d’água. Ideal para quem desconfia da água, mas não pode pagar laboratório.
+                                </p>
+                                <p class="fw-bold">R$ 60,00</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 col-lg-6 col-xl-4 my-2">
+                        <div class="card">
+                            <img src="/images/instalacao_calha.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Instalação de Calhas para Captação de Água da Chuva</h5>
+                                <p class="card-text text-secondary">Instalação de calhas e conduítes que redirecionam a
+                                    água da chuva para bombonas ou cisternas reaproveitadas.
+                                </p>
+                                <p class="fw-bold">R$ 150,00</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 col-lg-6 col-xl-4 my-2">
+                        <div class="card">
+                            <img src="/images/compostagem_comunitaria.webp" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Implantação de Compostagem Comunitária</h5>
+                                <p class="card-text text-secondary">Montagem de composteiras em centros comunitários,
+                                    escolas ou associações com orientação e manutenção inicial.
+                                </p>
+                                <p class="fw-bold">R$ 700,00</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 col-lg-6 col-xl-4 my-2">
+                        <div class="card">
+                            <img src="/images/reaproveitar_agua_ar_condicionado.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Reaproveitamento de Água do Ar-Condicionado</h5>
+                                <p class="card-text text-secondary">Instalação de mangueira e direcionamento da água
+                                    condensada para baldes ou jardins — ideal para regiões quentes.
+                                </p>
+                                <p class="fw-bold">R$ 70,00</p>
+
+                            </div>
+                        </div>
+
+                    </div>
+
                 </div>
             </div>
 
